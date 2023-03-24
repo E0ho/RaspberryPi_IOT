@@ -1,2 +1,3 @@
-# RaspberryPi
-라즈베리파이 GPIO핀을 활용해 다양한 센서 다루기
+### RaspberryPi_IOT
+라즈베리파이로 IOT 다루기
+
